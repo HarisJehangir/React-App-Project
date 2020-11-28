@@ -1,0 +1,41 @@
+
+.user_detail_wrapper{
+    padding: 15px;
+}
+
+a.back_link:link{
+    color: black;
+    font-weight: bold;
+}
+
+a.back_link:hover{
+    color: black;
+}
+
+a.back_link:visited{
+       color: black;
+}
+
+a.email:link{
+    color: black;
+}
+
+a.email:hover{
+    color: black;
+}
+
+a.email:visited{
+       color: black;
+}
+
+a.phone:link{
+    color: black;
+}
+
+a.phone:hover{
+    color: black;
+}
+
+a.phone:visited{
+       color: black;
+}

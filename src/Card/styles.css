@@ -1,0 +1,28 @@
+.card{
+    border: 1px solid #dbd9d9;
+    padding: 15px 10px;
+    width: 220px;
+    text-align: center;
+    margin: 10px 15px;
+    float: left;
+     box-shadow: 2px 2px#dbd9d9;
+        border-radius: 4px;
+}
+
+
+
+.initial{
+  height: 80px;
+  width: 80px;
+   display:inline-block;
+  background-color: #bbb;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 80px;
+  font-size: 20px;
+}
+
+.name{
+  font-weight: bold;
+  font-size: 18px;
+}
